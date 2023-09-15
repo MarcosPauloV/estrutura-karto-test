@@ -50,6 +50,6 @@ export default class SessaoStorage extends Storage {
 		SessaoStorage.handle.clear();
     SessaoStorage.authorization = '';
     SessaoStorage.tenant = '';
-    
+
 	}
 }
